@@ -1,7 +1,7 @@
 Algoritmo minicalculadora
   Definir num_a, num_b, num_res como Real
   Definir opcion como Entero
-  
+  Escribir "Este comentario  es para el paso 4 de la práctica"
   Escribir "Introducir numero a"
   leer num_a
   Escribir "Introducir numero b"
